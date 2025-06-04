@@ -1,4 +1,4 @@
-name: CI Pipeline
+name: clean-func
 on: #[push]  # Запуск при push в репозиторий
   workflow_dispatch:
     inputs:
